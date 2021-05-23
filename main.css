@@ -1,1 +1,23 @@
-    
+body {
+    background-color: #D3D3D3;
+    }
+
+    .first {
+        border: 10px solid red;;
+    }
+    /* rule-set #1: Everything within a first class will have a lightgray background. */
+.first {
+    background-color: lightgray;
+}
+    /*This is a CSS comment*/ body { background-color: #D3D3D3; } /*This is anothe
+SS comment*/ .wrapper { border: 10px solid red; }
+/* 1 */
+.padding-class{
+    border:2px solid red;
+      margin:50px 50px 50px 50px;
+      padding:20px 20px 20px 40px;
+}
+/* 4 */
+.background1{
+    background-color: lightblue;
+}
